@@ -50,7 +50,7 @@ int main() {
                 break;
         case 3: display();
                 break;
-        case 4: printf("\nExitiing...");
+        case 4: printf("\nExiting...");
                 return 0;
                 break;
         default: printf("Invalid operation, please try again.");
